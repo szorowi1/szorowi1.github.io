@@ -11,8 +11,8 @@ Projects are added to the `_projects` folder. Blog posts are added to the `_post
 
 To update software:
 
-  bundle update
+    bundle update
 
 To preview locally:
 
-  bundle exec jekyll serve --config _config.yml
+    bundle exec jekyll serve --config _config.yml

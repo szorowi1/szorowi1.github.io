@@ -1,6 +1,6 @@
 # main text of home
 name: Sam Zorowitz
-bio: Reinforcement learning, computational psychiatry, questionable music
+bio: reinforcement learning & computational psychiatry
 
 # twitter summary info
 description: Ramblings en route to the PhD
@@ -40,7 +40,7 @@ email: zorowitz@princeton.edu
 authors:
     johndoe:
         name: Sam Zorowitz
-        bio: Reinforcement learning & computational psychiatry
+        bio: reinforcement learning & computational psychiatry
         external-image: false
         picture: assets/images/profile.jpg
         twitter: szorowi1

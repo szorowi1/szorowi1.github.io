@@ -2,45 +2,26 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ site.url }}/assets/images/tuesday.jpg)
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am a second year Ph.D student at the Princeton Neuroscience Institute
+studying under Professors <a href="https://www.princeton.edu/~nivlab/">Yael Niv</a>
+and <a href="https://dawlab.princeton.edu/">Nathaniel Daw</a>. My research
+interests lie somewhere at the intersection of reinforcement learning,
+computational psychiatry, and human neuroimaging. Right now, I work on projects
+that seek to offer computational accounts of the core symptoms of anxiety disorders,
+such as pessimistic inference, pathological avoidance, and context conditioning.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Other assorted academic facts: I have a background in Bayesian modeling
+and statistics (i.e. I won't shut up about
+<a href="https://github.com/nivlab/stan-examples">Stan</a>).
+I dabble in cognitive neuroscience methods development
+(<a href="https://github.com/nivlab/NivLink">NivLink</a>). I care a lot about
+open science practices and really enjoy teaching
+(<a href="https://github.com/szorowi1/qmss2017">python workshop</a>). I
+have past lives in public health research and academic philosphy.</p>
 
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<p>Outside of research, I am passionate about mental health and illness. I worked
+for three years in the Department of Psychiatry at Mass General, and have been
+volunteering with mental health organizations for a decade. As a native
+son of New Jersey, I have a fondness for bad punk music and self-deprecating humor.</p>
