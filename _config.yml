@@ -33,32 +33,23 @@ disqus:
   categories: #[blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
 twitter: szorowi1
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-# linkedin: mylinkedin
-# youtube: myyoutube
-# spotify: myspotify
 github: szorowi1
-# gitlab: mygitlab
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-# medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
 email: zorowitz@princeton.edu
 
 authors:
     johndoe:
         name: Sam Zorowitz
-        bio: Reinforcement learning, computational psychiatry, questionable music
+        bio: Reinforcement learning & computational psychiatry
         external-image: false
         picture: assets/images/profile.jpg
         twitter: szorowi1
+
+## Custom addition: make projects accessible.
+collections:
+  projs:
+    output: true
+    permalink: /:collection/:name
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
