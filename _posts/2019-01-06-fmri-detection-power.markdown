@@ -58,7 +58,7 @@ Fortunately <a href="https://www.ncbi.nlm.nih.gov/pubmed/14741676">Liu &
 Frank (2004)</a> have an answer for us, though it requires a little math. The
 overall detection power of an experiment is defined as:
 
-$$ R_{tot} = \frac{1}{ \frac{1}{N} \sum \frac{1}{R_{ij}} } $$
+$$ R_{tot} = \frac{1}{ \frac{1}{N} \sum_{i \leq j} \frac{1}{R_{ij}} } $$
 
 where the detection power for each individual contrast, \\( R_{ij} \\), is defined as:
 
