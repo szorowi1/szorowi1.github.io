@@ -9,6 +9,7 @@ description: "Estimating detection power of fMRI block designs."
 category: blog
 author: szoro
 externalLink: false
+math: true
 ---
 
 Since starting the PhD, the one consistent piece of advice I keep hearing is
