@@ -1,5 +1,5 @@
 ---
-title: "fMRI Detection Power"
+title: "fmri detection power"
 layout: post
 date: 2019-01-06 00:00
 tag:
