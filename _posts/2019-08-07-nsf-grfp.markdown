@@ -1,0 +1,36 @@
+---
+title: "nsf grfp"
+layout: post
+date: 2019-08-08 00:00
+tag:
+  - nsf
+headerImage: false
+description: "Sharing my NSF GRFP"
+category: blog
+author: szoro
+externalLink: true
+math: false
+---
+
+So, last spring I was awarded an NSF Graduate Research Fellowship. Because these awards have seemingly far more to do with luck than skill, I think the best thing NSF recipients can do is share their proposals so that future applicants can have a little extra guidance in this most agonizing process.[^1]
+
+So without further ado, the following are my NSF GRFP proposal and reviews:
+
+- [Research Proposal](../assets/documents/grfp/szoro_nsf_grfp_research_proposal_FINAL.pdf)
+- [Personal Statement](../assets/documents/grfp/szoro_nsf_grfp_personal_statement_FINAL.pdf)
+- [Reviews](../assets/documents/grfp/szoro_nsf_grfp_reviews.pdf)
+
+I'll also share three pieces of unsolicited advice for anyone interested -- though take them with a grain of salt, as you probably should with all NSF advice[^2]:
+
+1. The NSF is not about funding an experiment; it's about investing in you as an aspiring scientist. Think about what you could offer the scientific community, and public at large, if the NSF were to invest in you.
+2. Relatedly, your proposed experiments don't need to be groundbreaking but they should be well-motivated and clearly described.
+3. The NSF is not the time to be humble. Flaunt your accomplishments. You're awesome; make sure your reviewers know it.
+
+Finally and most importantly, though [Celia](https://twitter.com/cogcelia/status/1115622528955760640) and [Sara](https://twitter.com/sara_poppop/status/1115793159915618304) have said it better already, it bears repeating: **You are not your NSF. The NSF does not define your worth as a scientist or a person. You are brilliant, talented, and awesome.**
+
+Best of luck, y'all.
+
+---
+
+[^1]: Seriously, how do you to fit an entire research proposal in two pages!?
+[^2]: I was told several times that the NSF would find my proposal "too clinical" and never fund it ¯\\\_(ツ)\_/¯
