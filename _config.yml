@@ -1,6 +1,6 @@
 # main text of home
 name: Sam Zorowitz
-bio: cognitive science. psychiatry. questionable music.
+bio: cognitive science. psychiatry. bad music.
 
 # twitter summary info
 description: Ramblings en route to the PhD
@@ -33,6 +33,7 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
+scholar: szorowi1
 twitter: szorowi1
 github: szorowi1
 lastfm: szorowi1
@@ -63,8 +64,8 @@ width: normal
 
 # if you don't need any of the below, comment them out below
 about: true
-blog: true
-# projects: true
+# blog: true
+projects: true
 
 # do you want to show the "read time" of the posts?
 read-time: true

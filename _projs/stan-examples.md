@@ -1,6 +1,6 @@
 ---
 title: Stan Examples
 externalLink: https://github.com/nivlab/stan-examples
-order: 2
+order: 3
 ---
-Example Stan models and resources for cognitive modeling inspiration.
+Resources and templates for cognitive modeling with Stan.
