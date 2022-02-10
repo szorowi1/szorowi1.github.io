@@ -3,22 +3,30 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Sam Zorowitz
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Sam Zorowitz
 language: en
-timezone: ''
+timezone: 'America/New_York'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://szorowi1.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
+
+# Header
+menu:
+  About: /about
+  Resume: /resume/szoro_cv.pdf
+  Scholar: https://scholar.google.com/citations?user=3285IsEAAAAJ&hl=en
+  Github: https://github.com/szorowi1
+  Contact: /contact
 
 # Directory
 source_dir: source
