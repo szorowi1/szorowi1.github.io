@@ -6,6 +6,6 @@ title: About
 ![Profile Image](images/tuesday.jpeg)
 
 
-I am a PhD candidate at the Princeton Neuroscience Institute advised by Yael Niv and Nathaniel Daw. My research focus is at the intersection psychometrics, reinforcement learning, and computational psychiatry. I work on projects that aim to improve our measurement and understanding of psychiatric symptoms like pessimistic appraisals, excessive avoidance, and interminable worry.
+I am a PhD candidate at the Princeton Neuroscience Institute advised by Yael Niv and Nathaniel Daw. My research focus is at the intersection of psychometrics, reinforcement learning, and computational psychiatry. I work on projects that aim to improve our measurement and understanding of psychiatric symptoms like pessimistic appraisals, excessive avoidance, and interminable worry.
 
 Feel free to reach out at: zorowitz [at] princeton [dot] edu
