@@ -1,5 +1,5 @@
 ---
-title: 'Zorowitz et al. (2020): Anxiety, Avoidance,<br>and Sequential Evaluation'
-permalink: 'doi.org/10.1162/CPSY_a_00026'
-cover_image: images/zorowitz2020.png
+title: 'Zorowitz et al. (2021): Inattentive responding can induce<br>spurious associations between task behavior<br>and symptom measures'
+permalink: 'psyarxiv.com/rynhk'
+cover_image: images/zorowitz2021.png
 ---
