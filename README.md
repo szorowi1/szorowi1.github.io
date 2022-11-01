@@ -6,7 +6,7 @@ This project is hosted on GitHub Pages using [Hexo](https://hexo.io/docs/) and [
 
 ## Previewing the page locally
 
-If you'd like to preview OpenData locally (for example, in the process of proposing a change):
+If you'd like to preview this site locally (for example, in the process of making a change):
 
 1. Clone down the project's repository (`git clone https://github.com/szorowi1/szorowi1.github.io.git`)
 2. `cd` into the project's directory

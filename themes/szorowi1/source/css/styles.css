@@ -91,6 +91,7 @@ h1, h2, h3 {
 	max-height: 250px;
 	display: block;
 	object-fit: cover;
+	margin-bottom: 1.5em;
 }
 
 .project-img {
