@@ -9,4 +9,6 @@ I am a clinical biostatistician working with [Dr. Angela Langdon](https://ajlang
 
 I received my Ph.D. in Neuroscience from Princeton University in 2023, advised by [Yael Niv](https://nivlab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/). In my doctoral research, I studied the structure of individual-differences in reinforcement learning using cognitive and structural equation modeling.
 
-I am broadly interested in psychometrics and statistical approaches for analyzing all types of clinical data (e.g., self-report, behavioral, neural). I also build software to make science easier (e.g., [jspsych-demos](https://nivlab.github.io/jspsych-demos), [OpenData](https://nivlab.github.io/opendata)).
+I am broadly interested in psychometrics and statistical approaches for analyzing all types of clinical data. I also build software to make science easier (e.g., [jspsych-demos](https://nivlab.github.io/jspsych-demos), [OpenData](https://nivlab.github.io/opendata)).
+
+Feel free to contact me via [email](mailto:szorowi1@gmail.com). 
