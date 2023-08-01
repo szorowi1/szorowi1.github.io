@@ -1,6 +1,6 @@
 # szorowi1.github.io
 
-The personal academic website for Sam Zorowitz.
+The academic website for Sam Zorowitz.
 
 This project is hosted on GitHub Pages using [Jekyll](https://jekyllrb.com/) and [academicpages](https://github.com/academicpages/academicpages.github.io).
 
