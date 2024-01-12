@@ -73,6 +73,6 @@ highlight_name: true
 
 I am a clinical biostatistician at the National Institute of Mental Health, where I lead human subjects research in the [UNCL](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/angela-langdon-phd). Before that, I completed my PhD in Computational Neuroscience at Princeton University supervised by [Yael Niv](https://nivlab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/). 
 
-In my research, I develop and validate cognitive/survey assessments for use in digital phenotypying and clinical trials. To do so, I use a variety of statistical methods including Bayesian data analysis, cognitive modeling, reinforcement learning, item response theory, and structural equation modeling.
+In my research, I develop and validate cognitive/survey assessments for use in psychiatric phenotypying and clinical trials. To do so, I use a variety of statistical methods including Bayesian data analysis, cognitive modeling, reinforcement learning, item response theory, and structural equation modeling.
 
 {style="text-align: justify;"}
