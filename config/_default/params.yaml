@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Sam Zorowitz. This is a personal website and does not necessarily represent the official views of the NIMH or the US government.'
+    notice: '© {year} Sam Zorowitz. This is a personal website and does not necessarily represent the official views of Cohere Health.'
     license:
       enable: true
       allow_derivatives: false
