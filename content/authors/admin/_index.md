@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Clinical biostatistician
+role: Senior Applied Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: National Institute of Mental Health
+  - name: Cohere Health
     url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,9 +29,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Digital psychiatry
-  - Psychometrics
-  - Bayesian data analysis
+  - Bayesian data analysis 
+  - Reinforcement learning
+  - Measurement theory
 
 # Education to show in About widget
 education:
@@ -71,8 +71,8 @@ social:
 highlight_name: true
 ---
 
-I am a clinical biostatistician at the National Institute of Mental Health, where I lead human subjects research in the [UNCL](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/angela-langdon-phd). Before that, I completed my PhD in Computational Neuroscience at Princeton University supervised by [Yael Niv](https://nivlab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/). 
+I am an incoming senior applied scientist at [Cohere Health](https://coherehealth.com/). Before that, I completed my PhD in Computational Neuroscience at Princeton University supervised by [Yael Niv](https://nivlab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/). 
 
-In my research, I develop and validate cognitive/survey assessments for use in psychiatric phenotypying and clinical trials. To do so, I use a variety of statistical methods including Bayesian data analysis, cognitive modeling, reinforcement learning, item response theory, and structural equation modeling.
+In my research, I develop tools for measuring patient health and recommending treatments. To do so, I use a variety of statistical approaches including Bayesian data analysis, reinforcement learning, causal inference, and measurement theory.
 
 {style="text-align: justify;"}
