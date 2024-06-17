@@ -71,8 +71,8 @@ social:
 highlight_name: true
 ---
 
-I am an incoming senior applied scientist at [Cohere Health](https://coherehealth.com/). Before that, I completed my PhD in Computational Neuroscience at Princeton University supervised by [Yael Niv](https://nivlab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/). 
+I am a Senior Applied Scientist at [Cohere Health](https://coherehealth.com/). Before that, I completed my PhD in Computational Neuroscience at Princeton University supervised by [Yael Niv](https://nivlab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/). 
 
-In my research, I develop tools for measuring patient health and recommending treatments. To do so, I use a variety of statistical approaches including Bayesian data analysis, reinforcement learning, causal inference, and measurement theory.
+In my research, I develop computational models for measuring patient health and recommending treatments. To do so, I use a variety of statistical approaches including Bayesian data analysis, reinforcement learning, causal inference, and measurement theory.
 
 {style="text-align: justify;"}
