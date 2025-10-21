@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Applied Scientist
+role: Staff Applied Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,8 +71,8 @@ social:
 highlight_name: true
 ---
 
-I am a Senior Applied Scientist at [Cohere Health](https://coherehealth.com/). Before that, I completed my PhD in Computational Neuroscience at Princeton University supervised by [Yael Niv](https://nivlab.princeton.edu/) and [Nathaniel Daw](https://dawlab.princeton.edu/). 
+I am a Staff Applied Scientist at [Cohere Health](https://coherehealth.com/). I completed my PhD in Computational Neuroscience at Princeton University where I studied precision psychiatry, reinforcement learning, and measurement theory. 
 
-In my research, I develop computational models for measuring patient health and recommending treatments. To do so, I use a variety of statistical approaches including Bayesian data analysis, reinforcement learning, causal inference, and measurement theory.
+I develop statistical models for measuring patient health and recommending treatments. In my work, I use a variety of methodological approaches including Bayesian data analysis and decision theory, statistical optimzation, and large-language models.
 
 {style="text-align: justify;"}
